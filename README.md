@@ -14,7 +14,7 @@ For the paper "Complexities Associated with User-generated Book Reviews in Digit
 
 2. Goodreads and Douban URLs used for the second case study:
 - Goodreads and Douban Parallel URLs: https://github.com/Yuerong2/JCDL2022ResearchPaperData/blob/main/Douban_Goodreads_parallel_dataset_urls%20.csv.
-- License for Goodreads and Douban Parrallel URLs: CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/)
+- License for Goodreads and Douban Parallel URLs: CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 3. Goodreads book reviews dataset and data scraping scripts reused for the third case study:
 - Goodreads Dataset: https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home;
