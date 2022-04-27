@@ -17,7 +17,7 @@
 - License for Goodreads and Douban Parrallel URLs: CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 3. Goodreads book reviews dataset and data scraping scripts reused for the third case study:
-- Goodreads Datasets: https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home;
+- Goodreads Dataset: https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home;
 - Goodreads Scraper: https://github.com/maria-antoniak/goodreads-scraper.
 
 
