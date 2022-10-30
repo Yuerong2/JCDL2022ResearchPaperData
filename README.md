@@ -1,6 +1,9 @@
 # JCDL 2022 Research Paper Data
 For the paper "Complexities Associated with User-generated Book Reviews in Digital Libraries: Temporal, Cultural, and Political Case Studies" by Yuerong Hu, Zoe LeBlanc, Jana Diesner, Ted Underwood, Glen Worthey and J. Stephen Downie.
 
+Reference:
+Hu, Y., LeBlanc, Z., Diesner, J., Underwood, T., Layne-Worthey, G., & Downie, J. S. (2022, June). Complexities associated with user-generated book reviews in digital libraries: temporal, cultural, and political case studies. In Proceedings of the 22nd ACM/IEEE Joint Conference on Digital Libraries (pp. 1-12).https://doi.org/10.1145/3529372.3530930.
+
 
 1. References for the first case study:
 - Eastern Express (Taiyuan). 2011. Douban Top 250 Books. https://www.douban.com/doulist/513669/;
